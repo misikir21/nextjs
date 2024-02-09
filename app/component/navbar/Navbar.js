@@ -1,16 +1,13 @@
 import React from "react";
-import Link from "next/link";
-function Navbar() {
+import Links from "@/app/links/Links";
+const Navbar = () => {
   return (
-    <Navbar>
+    <div>
       <div>LOGO</div>
       <div>
-        <Link href="">Home</Link>
-        <Link href="">About</Link>
-        <Link href="">Contace</Link>
+        <Links />
       </div>
-    </Navbar>
+    </div>
   );
-}
-
+};
 export default Navbar;
