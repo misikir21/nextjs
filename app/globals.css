@@ -23,7 +23,7 @@ a {
   margin: auto;
   padding-left: 50px;
   padding-right: 50px;
-  min-heght: 100vh;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
