@@ -1,3 +1,12 @@
+:root {
+  --bg: #0d0c22;
+  --text: white;
+}
 body {
-  background-color: black;
+  background-color: var(--bg);
+  color: var(--text);
+}
+a {
+  text-decoration: none;
+  color: inherit;
 }
