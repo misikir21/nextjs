@@ -19,6 +19,7 @@ a {
   color: inherit;
 }
 .container {
+  background-color: rebeccapurple;
   width: 1536px;
   margin: auto;
   padding-left: 50px;
