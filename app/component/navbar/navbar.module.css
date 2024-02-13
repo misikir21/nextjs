@@ -1,3 +1,10 @@
 .container {
   background-color: rgb(7, 7, 67);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  font-size: 30px;
+  font-weight: bold;
 }
